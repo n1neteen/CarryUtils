@@ -1,4 +1,3 @@
-**CarryUtils**
 
 <p align="center">
     <a href="https://github.com/Quantizr/DungeonRoomsMod/releases/latest" target="_blank">
@@ -15,7 +14,7 @@
     </a>
   </p>
   
-  
+  ###CarryUtils
 
 the new and now public Hypixel Skyblock mod that makes carries easy!
 
